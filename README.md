@@ -1,7 +1,7 @@
 # Surpresinha-da--Mega
 
 <p align="center">
-<a href="#English Description">English</a> -
+<a href="#English_Description">English</a> -
 <a href="#Descrição em português">Português</a>
 </p>
 
@@ -9,6 +9,6 @@
   <img alt="Readme" title="Readme" src="https://github.com/LuolBR/Surpresinha-da--Mega/blob/master/surpresinha_mega.gif"/>
 </h3>
 
-# English Description
+# English_Description
 App that provides random numbers to bet on Mega-Sena!
 
